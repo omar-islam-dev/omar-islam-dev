@@ -8,5 +8,4 @@ Currently learning the basics and documenting my progress.
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=omar-islam-dev&show_icons=true)  
 
