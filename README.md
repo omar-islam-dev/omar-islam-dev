@@ -3,8 +3,5 @@ I’m just getting started, and I plan to build something meaningful—step by s
 
 Currently learning the basics and documenting my progress.
 
-### GitHub statistics 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omar-islam-dev&show_icons=true&count_private=true&theme=dark)
-
 ### My skills
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
